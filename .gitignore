@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+.npm
+.env
+setenv.sh
